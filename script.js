@@ -2,9 +2,9 @@
 // PENGATURAN WEBSITE
 // Ganti nomor WhatsApp di bawah ini dengan nomor Anda.
 // Format internasional tanpa +, spasi, atau tanda -.
-// Contoh Indonesia: 6282135238350
+// Contoh Indonesia: 6282136238350
 // ==============================
-const WHATSAPP_NUMBER = "6282135238350";
+const WHATSAPP_NUMBER = "6282136238350";
 
 const formatIDR = value => new Intl.NumberFormat('id-ID',{style:'currency',currency:'IDR',maximumFractionDigits:0}).format(value);
 const menuToggle = document.getElementById('menuToggle');
