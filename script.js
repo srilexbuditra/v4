@@ -2,7 +2,7 @@
 // PENGATURAN WEBSITE
 // Ganti nomor WhatsApp di bawah ini dengan nomor Anda.
 // Format internasional tanpa +, spasi, atau tanda -.
-// Contoh Indonesia: 6281234567890
+// Contoh Indonesia: 6282135238350
 // ==============================
 const WHATSAPP_NUMBER = "6282135238350";
 
